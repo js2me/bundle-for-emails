@@ -1,0 +1,30 @@
+{
+  "name": "emails",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.13.2",
+    "html-minifier-terser": "^7.2.0",
+    "juice": "^11.0.0",
+    "prettier": "^3.5.1",
+    "rollup-plugin-html": "^0.2.1",
+    "sharp": "^0.33.5",
+    "string-replace-async": "^3.0.2",
+    "vite": "^6.1.0",
+    "vite-plugin-html": "^3.2.2",
+    "vite-plugin-html-inline": "^0.1.6",
+    "vite-plugin-image-optimizer": "^1.1.8",
+    "vite-plugin-inline-source": "^2.5.2",
+    "vite-plugin-singlefile": "^2.1.0"
+  }
+}
