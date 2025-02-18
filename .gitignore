@@ -1,2 +1,5 @@
 dist
 node_modules
+src
+assets
+src/*.html
